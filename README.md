@@ -1,11 +1,11 @@
-#Curso Digital: GIT/Versionamento
+# Curso Digital: GIT/Versionamento
 
-##Salvando modificações
+## Salvando modificações
 
 
-###aula de git da ada santander coders 2023
+### aula de git da ada santander coders 2023
  
-*uso do comando restore
-*usando git push
-* comando git pull
-* comando git fetch
+ * uso do comando restore
+ * usando git push
+ * comando git pull
+* comando git fecth
