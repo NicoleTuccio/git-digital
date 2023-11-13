@@ -8,3 +8,4 @@
  *uso do comando restore
  *usando git push
  * comando git pull
+* comando git fetch
