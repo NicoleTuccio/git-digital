@@ -9,3 +9,4 @@
  * usando git push
  * comando git pull
 * comando git fecth
+* comando git push
