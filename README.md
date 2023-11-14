@@ -10,4 +10,3 @@
  * comando git pull
 * comando git fecth
 * comando git push
-* oi
